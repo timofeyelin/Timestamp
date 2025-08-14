@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timestamp.Domain", "Timesta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timestamp.Infrastructure", "Timestamp.Infrastructure\Timestamp.Infrastructure.csproj", "{EA026A19-0378-4F16-B364-17E7B8E6F6D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timestamp.Tests", "Timestamp.Tests\Timestamp.Tests.csproj", "{403C272A-FC82-41C1-AC82-846362EE7B75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EA026A19-0378-4F16-B364-17E7B8E6F6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA026A19-0378-4F16-B364-17E7B8E6F6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA026A19-0378-4F16-B364-17E7B8E6F6D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403C272A-FC82-41C1-AC82-846362EE7B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403C272A-FC82-41C1-AC82-846362EE7B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403C272A-FC82-41C1-AC82-846362EE7B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403C272A-FC82-41C1-AC82-846362EE7B75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
